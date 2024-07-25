@@ -1,6 +1,5 @@
 # Book-donation-website-project
 ## *Introduction:*
-**Somaiya Books:** Full stack website which is intended to serve as a platform for K J Somaiya College of Engineering students to donate their old , used books.
 
 This project intends to put old, used books to good use by making them readily available for donation to younger college students.
 
@@ -11,7 +10,7 @@ The website has been successfully hosted and can be accessed using the link: htt
 
 ## *Work Done:*
 The website implements the following requirements:
-1. Students login through their respective Somaiya email ids to access the contents of the website. In case
+1. Students login through their respective email ids to access the contents of the website. In case
 they have not registered yet, they can sign up to create an account.
 1. On this platform, students can either put up their used books for donation or can browse through the
 existing prescribed books available put up by other people of the university branch-wise and subject-wise.
