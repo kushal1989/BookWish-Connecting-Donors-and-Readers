@@ -12,12 +12,17 @@ BookWish is an innovative online platform designed to facilitate the donation an
 - **Responsive Web Interface:** Designed for ease of use across devices.
 
 ## Screenshots
-![Homepage](https://github.com/user-attachments/assets/example1.png)
+![Picture1](https://github.com/user-attachments/assets/73c10206-e817-498d-995c-2511454166e9)
 
-![Book Listings](https://github.com/user-attachments/assets/example2.png)
+![Picture2](https://github.com/user-attachments/assets/39ab5ff7-47e9-4ee4-b7e3-4e5930738218)
 
-## Installation & Setup
+![Picture3](https://github.com/user-attachments/assets/69446b53-e81e-49bd-be4e-7967a630a2fb)
 
-### 1. Clone the Repository
-```sh
-git clone https://github.com/your-repo/bookwish.git
+![Picture4](https://github.com/user-attachments/assets/9edcf99b-ab22-49cb-bb89-bc6c16e2c973)
+
+![Picture5](https://github.com/user-attachments/assets/72376daf-594a-4758-a51d-80f7d2a6ee68)
+
+![Picture6](https://github.com/user-attachments/assets/ffba7c64-d0e0-4257-b002-fb5fe42dc0b7)
+
+![Picture7](https://github.com/user-attachments/assets/a6bf33af-780c-4c1f-847d-68e3d93935f5)
+
