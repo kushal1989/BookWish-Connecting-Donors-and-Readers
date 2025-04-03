@@ -1,27 +1,23 @@
-# Book-donation-website-project
-## *Introduction:*
+# BookWish: Connecting Donors and Readers
 
-This project intends to put old, used books to good use by making them readily available for donation to younger college students.
+## Overview
+BookWish is an innovative online platform designed to facilitate the donation and exchange of physical books. It connects donors who wish to share books with readers looking for knowledge and educational resources. The platform fosters a community of book lovers by enabling seamless book donations, search functionalities, and direct communication between users.
 
-All one has to do is sign up on the website, add their contact details and add a book for donation along with its details. One can also view all the books currently available for donation, branch and year wise. Also, in case a book is no longer available for donation, one can simply delete the uploaded book. In addition to this, one can directly search for a book they wish to acquire.
+## Features
+- **User Authentication:** Secure email-based login system.
+- **Book Donation Listings:** Donors can create profiles and list books they wish to donate.
+- **Book Search & Filters:** Readers can search for books based on genre, title, or keywords.
+- **Direct Communication:** Seekers can contact donors directly to arrange book exchanges.
+- **Community Engagement:** Users can interact through discussions and recommendations.
+- **Responsive Web Interface:** Designed for ease of use across devices.
 
+## Screenshots
+![Homepage](https://github.com/user-attachments/assets/example1.png)
 
-## *Work Done:*
-The website implements the following requirements:
-1. Students login through their respective email ids to access the contents of the website. In case
-they have not registered yet, they can sign up to create an account.
-1. On this platform, students can either put up their used books for donation or can browse through the
-existing prescribed books available put up by other people of the university branch-wise and subject-wise.
-There is also a search bar to look up a certain book by its name to check for its availability.
-1. They can then access the donor’s contact details for further information if they are interested in purchasing
-a book.
+![Book Listings](https://github.com/user-attachments/assets/example2.png)
 
-## *Tech Stack Used:*
+## Installation & Setup
 
-For Front-End Development:
-HTML, CSS, Materialize CSS, JavaScript.
-
-For Back-End Development:
-Firebase, Cloud Firestore and JavaScript.
-
-
+### 1. Clone the Repository
+```sh
+git clone https://github.com/your-repo/bookwish.git
