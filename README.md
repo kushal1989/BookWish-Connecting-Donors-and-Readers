@@ -1,4 +1,4 @@
-# BookWish: Connecting Donors and Readers
+# BookWish-Connecting-Donors-and-Readers
 
 ## Overview
 BookWish is an innovative online platform designed to facilitate the donation and exchange of physical books. It connects donors who wish to share books with readers looking for knowledge and educational resources. The platform fosters a community of book lovers by enabling seamless book donations, search functionalities, and direct communication between users.
